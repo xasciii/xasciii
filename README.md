@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hi 👋
 
-<!--
-**xasciii/xasciii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm currently learning and building projects related to Linux, infrastructure, networking and IT support.
 
-Here are some ideas to get you started:
+## Technologies
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Linux](https://img.shields.io/badge/Linux-black?logo=linux)
+![Python](https://img.shields.io/badge/Python-blue?logo=python)
+![Git](https://img.shields.io/badge/Git-orange?logo=git)
+![Windows](https://img.shields.io/badge/Windows-0078D6?logo=windows)
+
+## GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=xasciii&theme=dark&show_icons=true&count_private=true)
+
+## Top Languages
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=xasciii&layout=compact&theme=dark)
+
+## Current Projects
+
+- Active Directory Lab
+- Linux Offsite Backup System
+- IT Support Knowledge Base
+- Server Monitoring Tools
