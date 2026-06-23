@@ -8,9 +8,7 @@
 ![SSH](https://img.shields.io/badge/SSH-000000?logo=gnu-bash)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker)
 
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=xasciii&show_icons=true&count_private=true&theme=dark)
-
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=xasciii&theme=github-dark)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=xasciii&layout=compact&theme=dark)
 
