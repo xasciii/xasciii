@@ -9,7 +9,7 @@
 ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker)
 
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=xasciii&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=xasciii&show_icons=true&count_private=true&theme=dark)
 
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=xasciii&layout=compact&theme=dark)
