@@ -1,25 +1,16 @@
-# Hi 👋
 
-I'm currently learning and building projects related to Linux, infrastructure, networking and IT support.
-
-## Technologies
 
 ![Linux](https://img.shields.io/badge/Linux-black?logo=linux)
-![Python](https://img.shields.io/badge/Python-blue?logo=python)
-![Git](https://img.shields.io/badge/Git-orange?logo=git)
-![Windows](https://img.shields.io/badge/Windows-0078D6?logo=windows)
+![Bash](https://img.shields.io/badge/Bash-121011?logo=gnubash)
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python)
+![Git](https://img.shields.io/badge/Git-F05032?logo=git)
+![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github)
+![SSH](https://img.shields.io/badge/SSH-000000?logo=gnu-bash)
+![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker)
 
-## GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=xasciii&theme=dark&show_icons=true&count_private=true)
 
-## Top Languages
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=xasciii&layout=compact&theme=dark)
 
-## Current Projects
-
-- Active Directory Lab
-- Linux Offsite Backup System
-- IT Support Knowledge Base
-- Server Monitoring Tools
